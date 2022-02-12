@@ -1,0 +1,23 @@
+
+
+.card-catagoris{
+    border: 0;
+}
+
+.footer-card{
+    background-color: white;
+    border: 0;
+}
+.Back_color{
+    background-color:#f5e9e9;
+    border-radius: 10px;
+}
+.Catagories_all img{
+    height: 100px;
+}
+
+.footer_css{
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px lightgray;
+}
